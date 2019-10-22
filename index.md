@@ -71,9 +71,10 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <!-- MADISON:  Go back in and insert active link @href 9-17-19 -->
 <!-- Registration link added 9-25-19. MVC -->
+<!-- Linked updated per request of Phillip 10-22-19. MVC -->
 
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_5584425" matches with the above code: jQuery("#s_lc_event_5584425")  //-->
-<a id="s_lc_event_5584425" href="https://okstate.libcal.com/calendar/workshops/2019-12-16-okstate">CLICK TO REGISTER</a>
+<a id="s_lc_event_5584425" href="https://okstate.libcal.com/calendar/events/2019-12-16-okstate-dc">CLICK TO REGISTER</a>
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_5584425 {
